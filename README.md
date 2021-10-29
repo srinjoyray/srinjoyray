@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack and Flow Algorithms**
 
-- 💬 Ask me about **competitive programming, development and cricket**
+- 💬 Ask me about **algorithms, development and cricket**
 
 
 
