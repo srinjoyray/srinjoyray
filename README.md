@@ -28,7 +28,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=srinjoyray&show_icons=true&theme=gotham" alt="Srinjoy's GitHub Stats">
 </a>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrinjoyRay&show_icons=true&theme=tokyonight_duo" alt="Srinjoy's GitHub Stats"></p> 
-<img src="https://activity-graph.herokuapp.com/graph?username=srinjoyray&theme=react-dark">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=srinjoyray&theme=react-dark"> -->
 
 
 <h3 align="left">Connect with me:</h3>
